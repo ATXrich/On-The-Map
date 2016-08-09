@@ -16,8 +16,8 @@ extension ParseAPI {
         static let parseAPIKey = "QuWThTdiRmTux3YaDseUSEpUKo7aBYM737yKd4gY"
         static let parseRESTAPIKey = "X-Parse-REST-API-Key"
         static let parseApplicationId = "X-Parse-Application-Id"
-        static let parseGetURL = "https://api.parse.com/1/classes/StudentLocation?limit=100&order=-updatedAt"
-        static let parsePostURL = "https://api.parse.com/1/classes/StudentLocation"
+        static let parseGetURL = "https://parse.udacity.com/parse/classes/StudentLocation?limit=100&order=-updatedAt"
+        static let parsePostURL = "https://parse.udacity.com/parse/classes/StudentLocation"
         static let parseAppJson = "application/json"
         static let parseContentType = "Content-Type"
 
